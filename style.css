@@ -35,3 +35,18 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+
+.delete-btn {
+  background-color: blue;
+  color: whitesmoke;
+  padding: 15px;
+  margin-left: 10px;
+  border-radius: 10px;
+  border: none;
+}
+
+.delete-btn:hover {
+  transition: all 1.5s ease-in;
+  background-color: red;
+}
